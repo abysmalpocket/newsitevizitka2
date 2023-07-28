@@ -1,0 +1,58 @@
+body {
+  margin: 0;
+}
+
+.link {
+  color: goldenrod;
+}
+
+a:hover {
+  color: gray;
+  background-color: black;
+}
+
+.header {
+  padding: 20px;
+  border-bottom: 1px solid gray;
+  text-align: center;
+}
+
+.hero-link {
+  margin: 0 10px;
+  color: burlywood;
+}
+
+.main {
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.img-wrapper {
+  background-color: goldenrod;
+  padding: 20px;
+  text-align: center;
+  border-radius: 40px;
+}
+
+.img {
+  border: 1px solid gray;
+}
+
+.title {
+  color: burlywood;
+  text-align: center;
+}
+
+.subtitle {
+  border-left: 5px solid black;
+  padding-left: 10px;
+  color: burlywood;
+  margin-top: 30px;
+}
+
+.footer {
+  border-top: 1px solid gray;
+  padding: 20px;
+  text-align: center;
+  color: gray
+}
